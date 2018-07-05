@@ -1,0 +1,4 @@
+dr bin 500 0
+te "hello world" 0 800
+te "image the best" 0 400
+te "the test" 0 300
